@@ -171,7 +171,7 @@ while true; do
 
     case $choice in
         1)
-            echo -e "${G}https://discord.gg/2rYEHharqA${N}"
+            echo -e "${G}https://discord.gg/${N}"
             pause
             ;;
         2)
@@ -518,7 +518,7 @@ done
             pause
             ;;
         0)
-            echo -e "${G}TYRKROX GAMER 🔥${N}"
+            echo -e "${G}VoidCore Hosting 🔥${N}"
             sleep 1
             exit 0
             ;;
